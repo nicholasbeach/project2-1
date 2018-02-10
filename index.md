@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## TCMG 476 Group 2 (a or b? not sure lol)
 
 You can use the [editor on GitHub](https://github.com/colin-gibbons/project2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
