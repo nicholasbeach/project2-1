@@ -1,10 +1,23 @@
 ## TCMG 476 Group 2 a
 
-You can use the [editor on GitHub](https://github.com/colin-gibbons/project2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I came up with five sections we could do for this: General Class Info, Class Schedule (would be nice to link to separate page), Grading policy, Required Books, and "What we've done so far".
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The idea is we each pick one of those (if you've thought of one I didn't list, that's fine too). You can create a new "post" for the information by using ##, for example adding "## Required Books" to the end of index.md will create a new "Required Books" section.
 
-### Markdown
+Just a heads up, it's way easier to deal with merge conflicts if you use an IDE. You can get Visual Studio Code for free, and it integrates with GIT. Merge conflicts occur when your code doesn't match the code in the repo, and it will allow you to pick and choose which lines to delete, keep, or add. 
+
+ALWAYS PULL BEFORE YOU PUSH. Make sure to run a git pull command to get the latest code changes before pushing you code to the master branch. That way you won't overwrite anyone's changes. 
+
+## General Info
+### TCMG 476 - Technical Network Capstone
+Class: Tuesday/Thursday 11:10-12:25 EDCT 616
+Lab: Thursday 12:45-3:30 EDCT 616
+
+### Course Description and Prerequisites 
+### Course Objectives
+### Instructor information
+
+## Markdown -- I'll leave this default section here for now since it's a good reference for how to format stuff
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -27,13 +40,5 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/colin-gibbons/project2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ## Section 2 test
