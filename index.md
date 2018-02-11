@@ -1,5 +1,4 @@
 ## TCMG 476 Group 2 a
-
 I came up with five sections we could do for this: General Class Info, Class Schedule (would be nice to link to separate page), Grading policy, Required Books, and "What we've done so far".
 
 The idea is we each pick one of those (if you've thought of one I didn't list, that's fine too). You can create a new "post" for the information by using ##, for example adding "## Required Books" to the end of index.md will create a new "Required Books" section.
@@ -17,8 +16,8 @@ Lab: Thursday 12:45-3:30 EDCT 616
 ### Course Objectives
 ### Instructor information
 
-## Markdown -- I'll leave this default section here for now since it's a good reference for how to format stuff
-
+## Markdown
+### I'll leave this default section here for now since it's a good reference for how to format stuff
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
