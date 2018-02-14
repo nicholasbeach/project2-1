@@ -5,7 +5,7 @@ TCMG Music
 This is THE place to post anything music related.
 
 ## Jimi Hendrix
-This is going to be a post about Jimi Hendrix. 
+Test post about Jimi Hendrix. 
 ![Jimi Hendrix]({{ "/images/hendrix.jpg" | absolute_url }})
 
 ## Markdown
