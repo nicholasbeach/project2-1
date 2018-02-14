@@ -47,6 +47,12 @@ comprised of the following components:
 * Leadership and character          - 5% - 70pts
 
 ## Required Books
+Effective DevOps
+The Phoenix
+The Five Dysfunctions of a Team
+The Art of Business Value
+Beyond Blame
+The Human Side of Postmortems
 
 ## Markdown
 ### I'll leave this default section here for now since it's a good reference for how to format stuff
