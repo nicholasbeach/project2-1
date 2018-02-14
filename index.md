@@ -14,11 +14,37 @@ Lab: Thursday 12:45-3:30 EDCT 616
 
 ### Course Description and Prerequisites 
 ### Course Objectives
+Upon completion of the course, students will have a basic understanding 
+of the concepts and practices behind the DevOps model of IT service 
+delivery. This includes: classifying types of work within an IT unit; 
+systems automation and infrastructure as code; continuous 
+integration/delivery of software; and the importance of communication 
+and culture within an IT group. Additionally, students will have 
+acquired hands-on experience with a variety of tools commonly used in 
+DevOps environments, such as version control systems, virtual machines 
+and containerization systems, infrastructure automation tools, and 
+systems monitoring and reporting tools. The course will provide the 
+opportunity to work in teams to deliver modern IT services, and 
+experience the DevOps model of service delivery from the inside. 
 ### Instructor information
 
 ## Class Schedule
 
 ## Grading Policy
+Final grades will be allocated on a 1400-point scale (A＝1260–1400, 
+B＝1120–1259, C＝980–1119, D＝840–979, F<840). Attendance and 
+participation in class is a critical part of your grade. The University 
+views class attendance as the responsibility of an individual student. 
+University rules related to excused and unexcused absences are located 
+online at http://student-rules.tamu.edu/rule07. The total grade is 
+comprised of the following components:
+
+* Attendance                        - 20% - 280pts
+* Daily quizzes (readings)          - 20% - 280pts
+* Weekly ERFAs                      - 20% - 280pts
+* Group projects and labs           - 30% - 420pts
+* In-class and online participation - 5% - 70pts
+* Leadership and character          - 5% - 70pts
 
 ## Required Books
 
