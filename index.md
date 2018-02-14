@@ -16,11 +16,11 @@ Lab: Thursday 12:45-3:30 EDCT 616
 ### Course Objectives
 ### Instructor information
 
-##Class Schedule
+## Class Schedule
 
-##Grading Policy
+## Grading Policy
 
-##Required Books
+## Required Books
 
 ## Markdown
 ### I'll leave this default section here for now since it's a good reference for how to format stuff
