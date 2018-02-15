@@ -13,6 +13,10 @@ worldwide. Aerosmith is truly an American rock and roll icon and one of the grea
 ![Jimi Hendrix]({{ "/images/hendrix.jpg" | absolute_url }})
 With a mainstream career of only four years, Jimi Hendrix's influence on music can still be heard today. He changed how people play the electric guitar, turing feedback and distortion into an art form. Hendrix is known for combining rock and roll with the blues, and for playing rhythm guitar like no one before. His most famous performance was at Woodstock in 1969. During his rendition of the star spangled banner, he used the whammy bar and distortion to simulate the sounds of jet fighters, machine guns, and bombs. Only a year after this performance, he died from an accidental drug overdose at only 27 years old.
 
+## NF
+![NF]({{ "/images/NF.jpg" | absolute_url }})
+NF is the stage name of rapper and composer Nate Feuerstein, whose raw emotions and honest lyrics helped him storm the upper reaches of the charts with his third album, Perception. Feuerstein endured a hardship-filled childhood in which his parents divorced, his mother's boyfriend physically abused him, and his mother eventually killed herself. Music was his escape.The album attracted the attention of Xist Music, which signed him to a recording deal in 2012, by which time he had taken on the stage name NF.
+
 ## Markdown
 ### good reference for how to format stuff
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
