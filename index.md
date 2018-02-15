@@ -15,7 +15,7 @@ With a mainstream career of only four years, Jimi Hendrix's influence on music c
 
 ## NF
 ![NF]({{ "/images/NF.jpg" | absolute_url }})
-NF is the stage name of rapper and composer Nate Feuerstein, whose raw emotions and honest lyrics helped him storm the upper reaches of the charts with his third album, Perception. Feuerstein endured a hardship-filled childhood in which his parents divorced, his mother's boyfriend physically abused him, and his mother eventually killed herself. Music was his escape.The album attracted the attention of Xist Music, which signed him to a recording deal in 2012, by which time he had taken on the stage name NF.
+NF is the stage name of rapper and composer Nate Feuerstein, whose raw emotions and honest lyrics helped him storm the upper reaches of the charts with his third album, Perception. Feuerstein endured a hardship-filled childhood in which his parents divorced, his mother's boyfriend physically abused him, and his mother eventually killed herself. Music was his escape.The album attracted the attention of Xist Music, which signed him to a recording deal in 2012, by which time he had taken on the stage name of NF.
 
 
 ## Markdown
