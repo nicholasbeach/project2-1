@@ -1,7 +1,7 @@
 ## Technology + Music
 Music Blog
 
-## General Info
+## About
 This is THE place to post anything music related.
 
 ## Aerosmith
