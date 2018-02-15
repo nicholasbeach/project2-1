@@ -10,6 +10,7 @@ Test post about Jimi Hendrix.
 
 ## Aerosmith
 ![Aerosmith]({{ "/images/Aerosmith.png" | absolute_url }})
+
 Aerosmith is an iconic American rock band. The band was formed in 1970 and continues to perform to this day. The band currently consists of five members: 
 Steven Tyler on main vocals, Joe Perry on lead guitar and backup vocals, Tom Hamilton on bass, Joey Kramer on drums, and Brad Whitford on rhythm and lead 
 guitar. To date, Aerosmith has released 15 studio albums. The band is the best-selling American hard rock band of all time. They have sold 150 million records 
