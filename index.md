@@ -1,8 +1,5 @@
 ## Technology + Music
-Music Blog
-
-## About
-This is THE place to post anything music related.
+THE place to post anything music related.
 
 ## Aerosmith
 ![Aerosmith]({{ "/images/Aerosmith.png" | absolute_url }})
